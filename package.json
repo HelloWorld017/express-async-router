@@ -1,0 +1,27 @@
+{
+  "name": "@khinenw/express-async-router",
+  "version": "1.0.0",
+  "description": "An async router for express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HelloWorld017/express-async-router.git"
+  },
+  "keywords": [
+    "async",
+    "router",
+    "express"
+  ],
+  "author": "Khinenw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HelloWorld017/express-async-router/issues"
+  },
+  "homepage": "https://github.com/HelloWorld017/express-async-router#readme",
+  "peerDependencies": {
+    "express": ">= 4"
+  }
+}
